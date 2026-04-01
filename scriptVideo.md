@@ -1,5 +1,5 @@
 Script vidéo retravaillé
-##Slide 1 — Page de garde##
+## Slide 1 — Page de garde
 
 Bonjour, nous allons vous présenter notre SAÉ de base de données sur le thème du transport public.
 Nous avons choisi de concevoir une base de données sur le métro parisien.
